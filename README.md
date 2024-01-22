@@ -5,7 +5,7 @@ Esse é um projeto da pós graduação em Data Analytics pela FIAP.
 
 Projeto de análise de dados da vitivinicultura da Embrapa. Durante esse projeto desenvolvemos uma empresa fictícia chamada Vinhos Ventures Internacional para embasar nosso storytelling.
 
-Precisávamos mostrar aos acionistas e investidores como estão nossos números e qual nosso objetivo de expansão
+Precisávamos mostrar aos acionistas e investidores como estão nossos números e qual nosso objetivo de expansão.
 
 Com isso foi criada uma área de data analytics que será responsável por desenvolver dashboards iniciais com dados de produção,exportação,importação e projeções de PIB que serão apresentados na reunião de investidores e acionistas.
 
