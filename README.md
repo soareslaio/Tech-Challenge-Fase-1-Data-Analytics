@@ -9,7 +9,7 @@ Precisávamos mostrar aos acionistas e investidores como estão nossos números 
 
 Com isso foi criada uma área de data analytics que será responsável por desenvolver dashboards iniciais com dados de produção,exportação,importação e projeções de PIB que serão apresentados na reunião de investidores e acionistas.
 
-Para o desenvolvimento desse projeto foram necessários tratar dados de arquivos .CSV com pandas, análise exploratória de dados, estatística descritivas para identificar outliers, visualizações exploratórias com a biblioteca matplotlib e seaborn e desenvolvimento final da visualização via powerBI.
+Para o desenvolvimento desse projeto foram necessários tratar dados de arquivos .CSV com pandas, análise exploratória de dados, estatística descritivas para identificar outliers, visualizações exploratórias com a biblioteca matplotlib e seaborn e desenvolvimento final da visualização via powerBI e DAX.
 
 Como resultado identificamos: 
 
