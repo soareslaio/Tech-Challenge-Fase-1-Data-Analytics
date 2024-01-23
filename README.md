@@ -18,3 +18,5 @@ Como resultado identificamos:
 - Ao inferirmos que as exportações crescerão na mesma proporção do Produto Interno Bruto (PIB), ponderado pelo volume exportado, obtivemos uma média de crescimento das exportações de aproximadamente 3,31% em 2024 e 3,36% em 2025.
 
 - Nova tecnologia para Viníferas resistentes a doenças(Piwi) como forma de reduzir custos de produção e melhorar a qualidade dos vinhos.
+
+Link do medium: https://medium.com/@laiosoares6/0180de682f4e
